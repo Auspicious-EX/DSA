@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/Auspicious-EX/DailyWebDev/blob/main/Repo%20Images/Git%20Repos%20banner.gif?raw=true)](https://)
+
 # DSA RoadMap
 
 ## Data Structures and Algorithms (DSA) Introduction
